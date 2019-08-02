@@ -1,7 +1,7 @@
 # Portfolio Website.
 ###### https://rudxowl.github.io/
 
-![Image](images/PicsArt_03-06-08.16.36.png)
+![Image](TomPic.png)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
