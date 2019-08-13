@@ -1,7 +1,7 @@
 # Portfolio Website.
-###### https://rudxowl.github.io/
+###### https://vinaysomawat.github.io/
 
-![Image](TomPic.png)
+
 ### About me
 * Competitive Programming Page
 * Web Designing Page
