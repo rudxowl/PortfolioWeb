@@ -13,8 +13,8 @@
 ### Education
 * Bachelor's degree
 ### Contact
-* Mail address
-* linkedin
+* E-mail
+* Linkedin
 ------------------------------------------------------------------
 ![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/web_dev/images/portfolioweb.PNG)
 ------------------------------------------------------------------
