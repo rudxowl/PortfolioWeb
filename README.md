@@ -2,17 +2,17 @@
 ## Portfolio Website
 ###### https://rudxowl.github.io/PortfolioWeb/
 
-###aboutMe
+### AboutMe
 * A brief introduction to myself  
-###projects
+### Projects
 * Data analytics page
 * Web development page
 * Software development page
-###skills
+### Skills
 * Programming/ database/ data analytics skills with progress bars
-###education
+### Education
 * Bachelor's degree
-###contact
+### Contact
 * Mail address
 * linkedin
 ------------------------------------------------------------------
