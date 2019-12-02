@@ -400,13 +400,12 @@ body.offcanvas {
 .no-gutters {
   margin: 0;
   padding: 0; }
-
+.colorlib-about,
 .colorlib-experience,
 .colorlib-skills,
 .colorlib-education,
-.colorlib-blog,
+.colorlib-projects,
 .colorlib-work,
-.colorlib-about,
 .colorlib-installation,
 .colorlib-services,
 .colorlib-contact {
@@ -416,12 +415,12 @@ body.offcanvas {
   width: 100%;
   display: block; }
   @media screen and (max-width: 768px) {
+    .colorlib-about,
     .colorlib-experience,
     .colorlib-skills,
     .colorlib-education,
-    .colorlib-blog,
+    .colorlib-projects,
     .colorlib-work,
-    .colorlib-about,
     .colorlib-installation,
     .colorlib-services,
     .colorlib-contact {
